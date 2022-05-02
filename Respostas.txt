@@ -1,0 +1,10 @@
+Fernando;m;Superior;
+Janete;f;Superior;
+Samara;f;Mestrado;
+Samuel;m;Doutorado;
+Hevelly;f;Especialização;
+Joyce;f;Doutorado;
+Icaro;m;Mestrado;
+Ana;f;Superior;
+Fabricia;f;Mestrado;
+Lucas;m;Especialização;
